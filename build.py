@@ -103,6 +103,11 @@ def render(title, description, content, path, extra_head=""):
             '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
             f'?client={html.escape(SITE["adsense_client_id"])}" crossorigin="anonymous"></script>'
         )
+    if SITE.get("travelpayouts_drive_src"):
+        # Travelpayouts Drive: turns plain partner links into affiliate links (no pop-ups)
+        head += ('<script data-cfasync="false">(function(){var s=document.createElement("script");'
+                 's.async=1;s.setAttribute("data-cmp-ab","2");'
+                 f's.src={json.dumps(SITE["travelpayouts_drive_src"])};document.head.appendChild(s);}})();</script>')
     full_title = title if title == SITE["name"] else f"{title} | {SITE['name']}"
     out = TEMPLATE
     for k, v in {
