@@ -1,0 +1,53 @@
+{
+  "name": "somewhereus.com",
+  "logo": [
+    "somewhere",
+    "us"
+  ],
+  "tagline": "Road trips, national parks and weekends away in the USA",
+  "description": "USA travel guides for road trips, national parks and weekend getaways: routes, permits, seasons, where to stay and what it costs.",
+  "url": "https://somewhereus.com",
+  "language": "en",
+  "contact_email": "hello@somewhereus.com",
+  "fonts_href": "https://fonts.googleapis.com/css2?family=Bitter:wght@700&family=Source+Sans+3:wght@400;600&display=swap",
+  "hero": {
+    "kicker": "Wish you were here · USA",
+    "title": "Remember the family road trip? Let's take it again.",
+    "text": "Road trips, national parks and weekend getaways across America, starting from the red rock of Utah. Paper map optional."
+  },
+  "guides_description": "Every somewhereus.com road trip, national park and weekend guide.",
+  "newsletter": {
+    "title": "Get the weekend road-trip letter",
+    "text": "New routes, park permit dates and seasonal trip ideas. One email a month."
+  },
+  "article_note": "Park reservations, permits, road closures and fees change often. Check the official National Park Service, state park and road-condition pages before you go.",
+  "_comment_monetization": "Armando fills these in. Leave a value empty and that block simply stays hidden on the site.",
+  "adsense_client_id": "",
+  "newsletter_form_action": "",
+  "affiliates": {
+    "stays": {
+      "label": "Find hotels and cabins on Booking.com",
+      "url": ""
+    },
+    "car": {
+      "label": "Compare rental cars on EconomyBookings",
+      "url": "https://economybookings.tpx.li/nGt9LuEP"
+    },
+    "rv": {
+      "label": "Rent a campervan or RV",
+      "url": ""
+    },
+    "tours": {
+      "label": "Book tours and activities on Klook",
+      "url": "https://klook.tpx.li/jdcOPy7C"
+    },
+    "gear": {
+      "label": "Shop hiking and camping gear",
+      "url": ""
+    },
+    "insurance": {
+      "label": "Get travel insurance for your trip",
+      "url": ""
+    }
+  }
+}

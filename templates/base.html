@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{title}}</title>
+<meta name="description" content="{{description}}">
+<link rel="canonical" href="{{canonical}}">
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{description}}">
+<meta property="og:url" content="{{canonical}}">
+<meta property="og:site_name" content="{{site_name}}">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="{{site_name}}" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="{{fonts_href}}" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+{{extra_head}}
+</head>
+<body>
+<header class="top"><div class="wrap bar">
+  <a class="logo" href="/">{{logo_a}}<span>{{logo_b}}</span></a>
+  <nav><a href="/guides/">Guides</a><a href="/about/">About</a></nav>
+</div></header>
+<main>
+{{content}}
+</main>
+<footer class="foot"><div class="wrap">
+  <p><strong>{{logo_a}}<span>{{logo_b}}</span></strong> · {{tagline}}</p>
+  <p><a href="/about/">About</a> · <a href="/disclosure/">Affiliate disclosure</a> · <a href="/privacy/">Privacy</a> · <a href="mailto:{{contact_email}}">Contact</a> · <a href="/feed.xml">RSS</a></p>
+  <p class="small">© {{year}} {{site_name}}. Travel information is for general guidance only. Always check official sources before you go.</p>
+</div></footer>
+</body>
+</html>
