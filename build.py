@@ -214,7 +214,10 @@ def main():
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n'
           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
           + "".join(f"  <url><loc>{SITE['url']}{u}</loc></url>\n" for u in urls) + "</urlset>\n")
-    write("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE['url']}/sitemap.xml\n")
+    ai_training = ["GPTBot", "Google-Extended", "CCBot", "ClaudeBot", "anthropic-ai", "Bytespider",
+                   "Applebot-Extended", "meta-externalagent", "Amazonbot", "cohere-training-data-crawler"]
+    robots = "".join(f"User-agent: {b}\nDisallow: /\n\n" for b in ai_training)
+    write("robots.txt", robots + f"User-agent: *\nAllow: /\nSitemap: {SITE['url']}/sitemap.xml\n")
     now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
     items = "".join(
         f"<item><title>{html.escape(g['title'])}</title><link>{SITE['url']}/guides/{g['slug']}/</link>"
