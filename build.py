@@ -105,9 +105,18 @@ def render(title, description, content, path, extra_head=""):
         )
     if SITE.get("travelpayouts_drive_src"):
         # Travelpayouts Drive: turns plain partner links into affiliate links (no pop-ups)
-        head += ('<script data-cfasync="false">(function(){var s=document.createElement("script");'
-                 's.async=1;s.setAttribute("data-cmp-ab","2");'
-                 f's.src={json.dumps(SITE["travelpayouts_drive_src"])};document.head.appendChild(s);}})();</script>')
+        head += (
+            '<script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" '
+            'seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">\n'
+            '  (function () {\n'
+            '      var script = document.createElement("script");\n'
+            '      script.async = 1;\n'
+            '      script.setAttribute("data-cmp-ab","2");\n'
+            f"      script.src = '{SITE['travelpayouts_drive_src']}';\n"
+            '      document.head.appendChild(script);\n'
+            '  })();\n'
+            '</script>'
+        )
     full_title = title if title == SITE["name"] else f"{title} | {SITE['name']}"
     out = TEMPLATE
     for k, v in {
