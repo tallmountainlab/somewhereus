@@ -1,10 +1,57 @@
 {
- "home": ["Monument Valley road", "Delicate Arch Utah", "Zion Canyon", "Arches National Park road"],
- "then": ["Route 66 1950s", "Zion National Park 1920s", "Old car national park 1930s", "Bryce Canyon historical photograph"],
- "utah-mighty-five-road-trip": ["Delicate Arch", "Bryce Canyon amphitheater", "Zion Canyon Virgin River", "Capitol Reef Fruita", "Mesa Arch Canyonlands"],
- "national-park-trip-planning": ["Grand Canyon South Rim", "Yellowstone Grand Prismatic Spring", "Yosemite Valley", "Glacier National Park Going-to-the-Sun Road", "national park entrance sign"],
- "salt-lake-city-weekend-guide": ["Salt Lake City skyline", "Utah State Capitol", "Temple Square Salt Lake City", "Big Cottonwood Canyon", "Antelope Island bison"],
- "pacific-coast-highway-road-trip": ["Bixby Creek Bridge", "Big Sur coast", "McWay Falls", "Pacific Coast Highway", "Point Reyes Lighthouse"],
- "arizona-winter-road-trip": ["Sedona Cathedral Rock", "Saguaro National Park", "Grand Canyon snow", "Route 66 Seligman", "Tombstone Arizona"],
- "bonneville-salt-flats-great-salt-lake": ["Bonneville Salt Flats", "Great Salt Lake", "Spiral Jetty", "Antelope Island", "Bonneville Speedway"]
+ "home": [
+  "Monument Valley road",
+  "Delicate Arch Utah",
+  "Zion Canyon",
+  "Arches National Park road"
+ ],
+ "then": [
+  "George A. Grant Zion NARA",
+  "Bryce Canyon NARA photograph",
+  "Dorothea Lange Route 66",
+  "Utah Parks Company bus",
+  "Zion National Park 1930s"
+ ],
+ "utah-mighty-five-road-trip": [
+  "Delicate Arch",
+  "Bryce Canyon amphitheater",
+  "Zion Canyon Virgin River",
+  "Capitol Reef Fruita",
+  "Mesa Arch Canyonlands"
+ ],
+ "national-park-trip-planning": [
+  "Grand Canyon South Rim",
+  "Yellowstone Grand Prismatic Spring",
+  "Yosemite Valley",
+  "Glacier National Park Going-to-the-Sun Road",
+  "national park entrance sign"
+ ],
+ "salt-lake-city-weekend-guide": [
+  "Salt Lake City skyline",
+  "Utah State Capitol",
+  "Temple Square Salt Lake City",
+  "Big Cottonwood Canyon",
+  "Antelope Island bison"
+ ],
+ "pacific-coast-highway-road-trip": [
+  "Bixby Creek Bridge",
+  "Big Sur coast",
+  "McWay Falls",
+  "Pacific Coast Highway",
+  "Point Reyes Lighthouse"
+ ],
+ "arizona-winter-road-trip": [
+  "Sedona Cathedral Rock",
+  "Saguaro National Park",
+  "Grand Canyon snow",
+  "Route 66 Seligman",
+  "Tombstone Arizona"
+ ],
+ "bonneville-salt-flats-great-salt-lake": [
+  "Bonneville Salt Flats",
+  "Great Salt Lake",
+  "Spiral Jetty",
+  "Antelope Island",
+  "Bonneville Speedway"
+ ]
 }
