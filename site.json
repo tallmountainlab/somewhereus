@@ -13,7 +13,8 @@
   "hero": {
     "kicker": "Wish you were here · USA",
     "title": "Remember the family road trip? Let's take it again.",
-    "text": "Road trips, national parks and weekend getaways across America, starting from the red rock of Utah. Paper map optional."
+    "text": "Road trips, national parks and weekend getaways across America, starting from the red rock of Utah. Paper map optional.",
+    "image": "monument-valley-road"
   },
   "guides_description": "Every somewhereus.com road trip, national park and weekend guide.",
   "newsletter": {
@@ -50,5 +51,13 @@
       "url": ""
     }
   },
-  "travelpayouts_drive_src": "https://emrldtp.cc/NTk1NTgz.js?t=595583"
+  "travelpayouts_drive_src": "https://emrldtp.cc/NTk1NTgz.js?t=595583",
+  "then_now": {
+    "image": "bryce-photographer",
+    "title": "Same roads, same views, a different kind of camera",
+    "text": [
+      "Long before phone cameras, a trip to Bryce Canyon or Zion was something you recorded on film, like the photographer in this early National Park Service picture by George A. Grant. Families drove two-lane highways, stopped at motor courts and came home with a box of slides.",
+      "Today you book some parks online and the roads are smoother, but the view from the rim is the same one that filled those old slide shows. That is the trip these guides are here to help you take."
+    ]
+  }
 }

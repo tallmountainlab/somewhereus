@@ -1,0 +1,38 @@
+{
+ "utah-mighty-five-road-trip": [
+  "zion-angels-landing",
+  "bryce-amphitheater",
+  "hickman-bridge",
+  "mesa-arch"
+ ],
+ "national-park-trip-planning": [
+  "grand-canyon-hopi-point",
+  "grand-prismatic",
+  "going-to-the-sun",
+  "zion-ansel-adams"
+ ],
+ "salt-lake-city-weekend-guide": [
+  "utah-capitol",
+  "big-cottonwood-winter",
+  "antelope-bison",
+  "big-cottonwood-fall"
+ ],
+ "pacific-coast-highway-road-trip": [
+  "mcway-falls",
+  "big-sur-coast",
+  "point-reyes-lens",
+  "point-reyes-trail"
+ ],
+ "arizona-winter-road-trip": [
+  "grand-canyon-snow",
+  "saguaro-sunset",
+  "seligman-snow-cap",
+  "seligman-route-66"
+ ],
+ "bonneville-salt-flats-great-salt-lake": [
+  "salt-flats-sign",
+  "spiral-jetty",
+  "antelope-island",
+  "bonneville-speedway-road"
+ ]
+}
