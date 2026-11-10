@@ -318,5 +318,55 @@
   "author": "Chanilim714",
   "license": "CC BY-SA 3.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+ },
+ "wigwam-motel": {
+  "from": "route-66-road-trip-guide/4",
+  "alt": "A turquoise vintage station wagon parked between the white teepees of the Wigwam Motel",
+  "caption": "The Wigwam Motel, Holbrook, Arizona.",
+  "title": "File:Wigwam Motel, Holbrook, Arizona 03.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Wigwam_Motel,_Holbrook,_Arizona_03.jpg",
+  "author": "RyderAce",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "cadillac-ranch": {
+  "from": "route-66-road-trip-guide/6",
+  "alt": "Graffiti-covered Cadillacs half-buried nose down in a field at sunrise",
+  "caption": "Cadillac Ranch at sunrise, near Amarillo.",
+  "title": "File:Cadillac Ranch sunrise.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cadillac_Ranch_sunrise.jpg",
+  "author": "Thcipriani",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "blue-swallow-buick": {
+  "from": "route-66-road-trip-guide/7",
+  "alt": "A pale green 1950s Buick parked at the Blue Swallow Motel",
+  "caption": "A vintage Buick at the Blue Swallow Motel, Tucumcari.",
+  "title": "File:Antique Buick at the Blue Swallow Motel.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Antique_Buick_at_the_Blue_Swallow_Motel.jpg",
+  "author": "Cullen328",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "santa-monica-end-of-trail": {
+  "from": "route-66-road-trip-guide/10",
+  "alt": "The Santa Monica 66 End of the Trail sign above a crowd on the pier",
+  "caption": "The End of the Trail sign, Santa Monica Pier.",
+  "title": "File:Route 66 sign at Santa Monica Pier.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Route_66_sign_at_Santa_Monica_Pier.jpg",
+  "author": "APK",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "williams-route-66-sign": {
+  "from": "route-66-road-trip-guide/2",
+  "alt": "An Arizona US 66 shield sign on the main street of Williams",
+  "caption": "Route 66 through Williams, Arizona.",
+  "title": "File:2012.09.11.173138 Sign W Route 66 Williams Arizona USA.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:2012.09.11.173138_Sign_W_Route_66_Williams_Arizona_USA.jpg",
+  "author": "Hermann Luyken",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
  }
 }
