@@ -368,5 +368,55 @@
   "author": "Hermann Luyken",
   "license": "CC0",
   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+ },
+ "monument-valley-sunset": {
+  "from": "monument-valley-guide/2",
+  "alt": "Sentinel Mesa, the Mittens and Merrick Butte glowing at sunset in Monument Valley",
+  "caption": "Sunset over the Mittens, Monument Valley.",
+  "title": "File:Monument Valley Sunset MC.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Monument_Valley_Sunset_MC.jpg",
+  "author": "Christian Mehlführer",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5"
+ },
+ "john-fords-point": {
+  "from": "monument-valley-guide/5",
+  "alt": "A rider on horseback at the edge of John Ford's Point with buttes beyond",
+  "caption": "John Ford's Point.",
+  "title": "File:John Ford's Point Monument Valley Luca Galuzzi 2007.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:John_Ford%27s_Point_Monument_Valley_Luca_Galuzzi_2007.jpg",
+  "author": "Luca Galuzzi",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5"
+ },
+ "west-mitten": {
+  "from": "monument-valley-guide/1",
+  "alt": "West Mitten Butte above red sand and desert shrubs",
+  "caption": "West Mitten Butte.",
+  "title": "File:Monument Valley West Mitten Butte.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Monument_Valley_West_Mitten_Butte.jpg",
+  "author": "Tobi 87",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "gouldings-lodge": {
+  "from": "monument-valley-guide/7",
+  "alt": "Goulding's Lodge rooms built against a red sandstone cliff",
+  "caption": "Goulding's Lodge, near the park entrance.",
+  "title": "File:Goulding's Lodge 02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Goulding%27s_Lodge_02.jpg",
+  "author": "Bernard Gagnon",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+ },
+ "monument-valley-rock": {
+  "from": "monument-valley-guide/10",
+  "alt": "A tall red rock wall glowing in evening light",
+  "caption": "Red rock at sunset in Monument Valley.",
+  "title": "File:Monument valley roche.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Monument_valley_roche.jpg",
+  "author": "Jean-Pierre Lavoie",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5"
  }
 }
