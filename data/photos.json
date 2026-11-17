@@ -418,5 +418,55 @@
   "author": "Jean-Pierre Lavoie",
   "license": "CC BY 2.5",
   "license_url": "https://creativecommons.org/licenses/by/2.5"
+ },
+ "old-faithful": {
+  "from": "yellowstone-trip-guide/1",
+  "alt": "Old Faithful geyser erupting a column of steam into a blue sky",
+  "caption": "Old Faithful erupting.",
+  "title": "File:Yellowstone National Park (WY, USA), Old Faithful Geyser -- 2022 -- 2599.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Yellowstone_National_Park_(WY,_USA),_Old_Faithful_Geyser_--_2022_--_2599.jpg",
+  "author": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "yellowstone-lower-falls": {
+  "from": "yellowstone-trip-guide/3",
+  "alt": "The Lower Falls plunging into the yellow walls of the Grand Canyon of the Yellowstone",
+  "caption": "The Grand Canyon of the Yellowstone and the Lower Falls.",
+  "title": "File:Grand canyon of Yellowstone and Yellowstone fall nn edit1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Grand_canyon_of_Yellowstone_and_Yellowstone_fall_nn_edit1.jpg",
+  "author": "Brocken Inaglory",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+ },
+ "morning-glory-pool": {
+  "from": "yellowstone-trip-guide/9",
+  "alt": "The blue, green and orange rings of Morning Glory Pool beside a boardwalk",
+  "caption": "Morning Glory Pool, Upper Geyser Basin.",
+  "title": "File:Morning Glory Pool Yellowstone National Park.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Morning_Glory_Pool_Yellowstone_National_Park.jpg",
+  "author": "Matthias Kabel",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+ },
+ "old-faithful-inn": {
+  "from": "yellowstone-trip-guide/8",
+  "alt": "The steep wooden roof and log facade of the Old Faithful Inn",
+  "caption": "The Old Faithful Inn, opened in 1904.",
+  "title": "File:Old Faithful Inn main facade.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Old_Faithful_Inn_main_facade.jpg",
+  "author": "Jim Peaco",
+  "license": "Public domain",
+  "license_url": ""
+ },
+ "lamar-bison": {
+  "from": "yellowstone-trip-guide/6",
+  "alt": "Close view of a bull bison's head among sagebrush",
+  "caption": "A bison in the Lamar Valley.",
+  "title": "File:Bison bull headshot.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bison_bull_headshot.jpg",
+  "author": "Frank Schulenburg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
  }
 }
