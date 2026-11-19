@@ -468,5 +468,45 @@
   "author": "Frank Schulenburg",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "dead-horse-point": {
+  "from": "moab-utah-guide/1",
+  "alt": "The Colorado River curving around a gooseneck far below red cliffs at Dead Horse Point",
+  "caption": "The view from Dead Horse Point.",
+  "title": "File:Dead Horse Point, Colorado River.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dead_Horse_Point,_Colorado_River.jpg",
+  "author": "Clément Bardot",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+ },
+ "fisher-towers": {
+  "from": "moab-utah-guide/4",
+  "alt": "Tall dark red sandstone spires of the Fisher Towers",
+  "caption": "The Fisher Towers.",
+  "title": "File:Fisher Towers - Moab (52673028836).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Fisher_Towers_-_Moab_(52673028836).jpg",
+  "author": "Bureau of Land Management, Utah",
+  "license": "Public domain",
+  "license_url": ""
+ },
+ "highway-128": {
+  "from": "moab-utah-guide/5",
+  "alt": "The Colorado River and red canyon walls along Utah Highway 128",
+  "caption": "Scenic Byway 128 along the Colorado River.",
+  "title": "File:Utah State Route 128 Along Colorado River Near Moab, Utah (2408381076).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Utah_State_Route_128_Along_Colorado_River_Near_Moab,_Utah_(2408381076).jpg",
+  "author": "Ken Lund from Reno, Nevada, USA",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+ },
+ "moab-main-street": {
+  "from": "moab-utah-guide/10",
+  "alt": "Shops and a Jeep on Main Street in Moab with red cliffs behind",
+  "caption": "Main Street, Moab.",
+  "title": "File:Desert Dreams Main Street Moab UT 2025-05-16 09-52-05.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Desert_Dreams_Main_Street_Moab_UT_2025-05-16_09-52-05.jpg",
+  "author": "G. Edward Johnson",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0"
  }
 }
