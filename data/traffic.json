@@ -1,6 +1,6 @@
 {
  "source": "cloudflare",
- "updated": "2026-11-15",
+ "updated": "2026-11-22",
  "days": [
   {
    "date": "2026-11-04",
@@ -70,9 +70,51 @@
   },
   {
    "date": "2026-11-15",
-   "page_views": 7,
-   "requests": 232,
-   "unique_visitors": 19
+   "page_views": 31,
+   "requests": 1143,
+   "unique_visitors": 60
+  },
+  {
+   "date": "2026-11-16",
+   "page_views": 146,
+   "requests": 1862,
+   "unique_visitors": 66
+  },
+  {
+   "date": "2026-11-17",
+   "page_views": 172,
+   "requests": 795,
+   "unique_visitors": 100
+  },
+  {
+   "date": "2026-11-18",
+   "page_views": 135,
+   "requests": 2564,
+   "unique_visitors": 172
+  },
+  {
+   "date": "2026-11-19",
+   "page_views": 151,
+   "requests": 2139,
+   "unique_visitors": 225
+  },
+  {
+   "date": "2026-11-20",
+   "page_views": 154,
+   "requests": 432,
+   "unique_visitors": 235
+  },
+  {
+   "date": "2026-11-21",
+   "page_views": 139,
+   "requests": 525,
+   "unique_visitors": 257
+  },
+  {
+   "date": "2026-11-22",
+   "page_views": 34,
+   "requests": 1339,
+   "unique_visitors": 91
   }
  ]
 }
