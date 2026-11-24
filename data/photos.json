@@ -508,5 +508,55 @@
   "author": "G. Edward Johnson",
   "license": "CC BY 4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0"
+ },
+ "park-city-main-street": {
+  "from": "park-city-utah-guide/2",
+  "alt": "Historic storefronts along Main Street in Park City with snowy hills beyond",
+  "caption": "Historic Main Street, Park City.",
+  "title": "File:Main Street Park City Utah.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Main_Street_Park_City_Utah.JPG",
+  "author": "Mrs keyser soze",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+ },
+ "egyptian-theatre": {
+  "from": "park-city-utah-guide/9",
+  "alt": "The lit-up facade and marquee of the Egyptian Theatre at night",
+  "caption": "The Egyptian Theatre during the Sundance Film Festival, 2024.",
+  "title": "File:Egyptian Theatre (2024)-L1004366.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Egyptian_Theatre_(2024)-L1004366.jpg",
+  "author": "Frank Schulenburg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "olympic-park-jumps": {
+  "from": "park-city-utah-guide/5",
+  "alt": "Snow-covered ski jumps at the Utah Olympic Park",
+  "caption": "The ski jumps at the Utah Olympic Park.",
+  "title": "File:Utah Olympic Park – Ski Jumping Center.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Utah_Olympic_Park_%E2%80%93_Ski_Jumping_Center.jpg",
+  "author": "Michael Jiroch",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+ },
+ "deer-valley-snow": {
+  "from": "park-city-utah-guide/8",
+  "alt": "View from a Deer Valley chairlift over snowy aspens toward a reservoir",
+  "caption": "The view from a chairlift at Deer Valley.",
+  "title": "File:Deer-valley-Utah Snow.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Deer-valley-Utah_Snow.jpg",
+  "author": "Steve Jurvetson from Menlo Park, USA",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0"
+ },
+ "main-street-night": {
+  "from": "park-city-utah-guide/1",
+  "alt": "Main Street in Park City at night with lit storefronts",
+  "caption": "Main Street after dark.",
+  "title": "File:Park City Utah Looking down Main Street 2015 photo Don Ramey Logan.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Park_City_Utah_Looking_down_Main_Street_2015_photo_Don_Ramey_Logan.jpg",
+  "author": "Don Ramey Logan",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
  }
 }
