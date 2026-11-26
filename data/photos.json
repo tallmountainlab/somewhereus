@@ -558,5 +558,55 @@
   "author": "Don Ramey Logan",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "mormon-row": {
+  "from": "grand-teton-guide/4",
+  "alt": "Mormon Row barns at sunrise below the Teton Range",
+  "caption": "Sunrise at the Mormon Row barns",
+  "title": "File:Sunrise, Mormon Row barns, Grand Teton National Park.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunrise,_Mormon_Row_barns,_Grand_Teton_National_Park.jpg",
+  "author": "DASH713",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "jenny-lake": {
+  "from": "grand-teton-guide/5",
+  "alt": "Aerial view of Jenny Lake below the Tetons",
+  "caption": "Jenny Lake from above, with the Tetons rising straight out of it",
+  "title": "File:Aerial image of Jenny Lake (view from the east).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Jenny_Lake_(view_from_the_east).jpg",
+  "author": "Carsten Steger",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "cascade-canyon": {
+  "from": "grand-teton-guide/6",
+  "alt": "Jenny Lake with Cascade Canyon behind it",
+  "caption": "Jenny Lake and the mouth of Cascade Canyon",
+  "title": "File:Jenny Lake Cascade Canyon GTNP1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Jenny_Lake_Cascade_Canyon_GTNP1.jpg",
+  "author": "Acroterion",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "chapel-transfiguration": {
+  "from": "grand-teton-guide/10",
+  "alt": "The log Chapel of the Transfiguration with the Grand Teton behind",
+  "caption": "The Chapel of the Transfiguration, built in 1925",
+  "title": "File:Grand Tetons Chapel of the Transfiguration.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Grand_Tetons_Chapel_of_the_Transfiguration.jpg",
+  "author": "MarkTSnow",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "mormon-row-barn": {
+  "from": "grand-teton-guide/3",
+  "alt": "An old wooden barn in front of the Grand Tetons",
+  "caption": "An old homestead barn, a classic Teton view",
+  "title": "File:Barns grand tetons.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Barns_grand_tetons.jpg",
+  "author": "Jon Sullivan",
+  "license": "Public domain",
+  "license_url": ""
  }
 }
